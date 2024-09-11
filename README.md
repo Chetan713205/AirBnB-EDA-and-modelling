@@ -1,2 +1,1 @@
-# AirBnB-EDA-and-modelling
-Exploratory Data Analysis of AirBnB dataset
+I have completed an exploratory data analysis of the Airbnb dataset to extract insights from key performance indicators (KPIs), supporting informed decision-making. For price prediction, I'hv applied machine learning models, including Linear Regression, XGBoost, and Artificial Neural Networks (ANN). Both ANN and XGBoost provided satisfactory results, indicating strong performance in predicting pricing.
